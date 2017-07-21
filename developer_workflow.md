@@ -1,3 +1,5 @@
+## Formal process for developer workflow
+
 * The `master` branch is the latest release.  ***No active development happens on it.***
 
 * The `develop` branch starts as a branch from master and is permanent.  *This is where active development happens.*
