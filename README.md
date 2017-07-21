@@ -20,6 +20,9 @@ the direction the language is evolving in.
 
 * [0001-example.md](text/0001-example.md)
 
+## Completed/accepted RFCs
+* [Formal process for developer workflow](developer_workflow.md).
+
 ## Table of Contents
 [Table of Contents]: #table-of-contents
 * [Opening](#openag-rfcs)
